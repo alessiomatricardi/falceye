@@ -24,4 +24,3 @@ public class Grafica {
         f.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
     }
 }
-//ciaooo
