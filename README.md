@@ -16,6 +16,6 @@ Features
 Notes
 ----
 * This project has been developed in Java beacuse it was the programming language that my class was studying that year.
-* This project has been developed with NetBeans, so it's better use that to run.
-* The project was tested only in Windows. No feedback about *NIX systems.
+* This project is compatible with IntelliJ IDEA, better use it to build.
+* The project was tested on Windows and macOS, no feedback about Linux distributions.
 * Code was written in italian, so it could be less comprensive.

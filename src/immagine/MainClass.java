@@ -4,6 +4,6 @@ import java.io.IOException;
 
 public class MainClass {
     public static void main(String[] args) throws IOException {
-        MainFrame mf=new MainFrame();
+        MainFrame mf = new MainFrame();
     }
 }
